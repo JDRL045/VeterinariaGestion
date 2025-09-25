@@ -1,0 +1,44 @@
+[
+  {
+    "id": "admin",
+    "nombre": "Administrador",
+    "contrasena": "admin123",
+    "rol": "ADMINISTRADOR",
+    "activo": true
+  },
+  {
+    "id": "John",
+    "nombre": "John Restrepo",
+    "contrasena": "342312",
+    "rol": "MEDICO",
+    "activo": true
+  },
+  {
+    "id": "Danna",
+    "nombre": "Danna",
+    "contrasena": "342312",
+    "rol": "AUXILIAR",
+    "activo": true
+  },
+  {
+    "id": "Dorian",
+    "nombre": "Dorian ",
+    "contrasena": "11111",
+    "rol": "MEDICO",
+    "activo": true
+  },
+  {
+    "id": "Fabio",
+    "nombre": "Fabio",
+    "contrasena": "22222",
+    "rol": "AUXILIAR",
+    "activo": true
+  },
+  {
+    "id": "Rodrigo",
+    "nombre": "Rodrigo",
+    "contrasena": "33333",
+    "rol": "AUXILIAR",
+    "activo": true
+  }
+]
